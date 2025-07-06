@@ -1,0 +1,51 @@
+rounak ghosh
+11:04 PM
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Package Files
+*.iml
+*.ipr
+*.iws
+
+# Maven / Gradle
+target/
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+tmp/
+
+# Selenium - Ignore driver executables if stored locally
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+IEDriverServer.exe
+msedgedriver
+msedgedriver.exe
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Test Reports
+test-output/
+surefire-reports/
+
+# IDEs / Tools
+.idea/
+.vscode/
+
+# Environ
+kmc-yeox-wor
